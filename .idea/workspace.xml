@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c314ddb9-172e-434b-8075-23cb162e72da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bai6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/baitoantinhtienvexebus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ss2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +43,7 @@
     "Application.bai6.executor": "Run",
     "Application.baitoantinhtienvexebus.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -130,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722533701934</updated>
       <workItem from="1722533703058" duration="7629000" />
-      <workItem from="1722594087572" duration="1554000" />
+      <workItem from="1722594087572" duration="1902000" />
     </task>
     <servers />
   </component>

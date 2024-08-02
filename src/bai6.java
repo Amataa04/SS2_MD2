@@ -1,5 +1,6 @@
 public class bai6 {
     public static void main(String[] args) {
+        // [Bài tập] Hiển thị 20 số nguyên tố đầu tiên
         int num = 2;
         int cout = 0;
         while(cout < 20){
