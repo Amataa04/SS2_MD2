@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c314ddb9-172e-434b-8075-23cb162e72da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/bai7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bai8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +42,9 @@
     "Application.bai3.executor": "Run",
     "Application.bai4.executor": "Run",
     "Application.bai5.executor": "Run",
-    "Application.bai6.executor": "Run",
+    "Application.bai6.executor": "Debug",
+    "Application.bai7.executor": "Run",
+    "Application.bai8.executor": "Run",
     "Application.baitoantinhtienvexebus.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -55,21 +59,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.bai6">
-    <configuration name="bai2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai2" />
-      <module name="ss2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bai3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bai3" />
-      <module name="ss2" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.bai8">
     <configuration name="bai4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bai4" />
       <module name="ss2" />
@@ -91,13 +81,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="bai7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai7" />
+      <module name="ss2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bai8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bai8" />
+      <module name="ss2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.bai8" />
+        <item itemvalue="Application.bai7" />
         <item itemvalue="Application.bai6" />
         <item itemvalue="Application.bai5" />
         <item itemvalue="Application.bai4" />
-        <item itemvalue="Application.bai3" />
-        <item itemvalue="Application.bai2" />
       </list>
     </recent_temporary>
   </component>
@@ -119,6 +123,8 @@
       <updated>1722533701934</updated>
       <workItem from="1722533703058" duration="7629000" />
       <workItem from="1722594087572" duration="1902000" />
+      <workItem from="1722623289915" duration="1365000" />
+      <workItem from="1722653256485" duration="5311000" />
     </task>
     <servers />
   </component>
